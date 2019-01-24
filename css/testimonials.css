@@ -126,7 +126,7 @@ cite {
 /* SLIDER */
 .swiper-container {
     width: 100vw;
-    height: 100vh;
+    height: 60vh;
 }
 
 .slider-slide {
